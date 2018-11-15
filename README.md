@@ -11,7 +11,8 @@ https://mp.weixin.qq.com/s?__biz=MzIwMTgwNjgyOQ==&mid=2247484695&idx=1&sn=1961df
 https://github.com/imhuay/Algorithm_Interview_Notes-Chinese
 ### 6.Kaggle竞赛实例 - 泰坦尼克Titanic数据分析
 https://www.bilibili.com/video/av30737396/?spm_id_from=333.788.videocard.1
-
+### 7.《利用Python进行数据分析·第2版》
+https://www.jianshu.com/p/04d180d90a3f
 
 
 
