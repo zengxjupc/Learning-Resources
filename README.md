@@ -15,6 +15,8 @@ https://www.bilibili.com/video/av30737396/?spm_id_from=333.788.videocard.1
 https://www.jianshu.com/p/04d180d90a3f
 ### 8.异常检测方法示例集锦(Python/R)
 https://github.com/shubhomoydas/ad_examples
+### 9.数据挖掘-理论与算法
+https://www.bilibili.com/video/av23933161?from=search&seid=7396061725932583774
 
 
 
