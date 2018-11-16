@@ -13,6 +13,8 @@ https://github.com/imhuay/Algorithm_Interview_Notes-Chinese
 https://www.bilibili.com/video/av30737396/?spm_id_from=333.788.videocard.1
 ### 7.《利用Python进行数据分析·第2版》
 https://www.jianshu.com/p/04d180d90a3f
+### 8.异常检测方法示例集锦(Python/R)
+https://github.com/shubhomoydas/ad_examples
 
 
 
