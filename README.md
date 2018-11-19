@@ -17,6 +17,7 @@ https://www.jianshu.com/p/04d180d90a3f
 https://github.com/shubhomoydas/ad_examples
 ### 9.数据挖掘-理论与算法
 https://www.bilibili.com/video/av23933161?from=search&seid=7396061725932583774
-
+### 10.数据挖掘Titanic案例分析
+https://www.kaggle.com/lazylittlebody/test-titanci
 
 
