@@ -21,5 +21,7 @@ https://www.bilibili.com/video/av23933161?from=search&seid=7396061725932583774
 https://www.kaggle.com/lazylittlebody/test-titanci
 ### 11.特征工程是什么
 https://www.zhihu.com/question/29316149
+### 12.公认机器学习经典《模式识别与机器学习(PRML)》正式开放免费下载
+https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
 
 
