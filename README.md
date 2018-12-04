@@ -17,6 +17,12 @@ https://www.jianshu.com/p/04d180d90a3f
 https://github.com/shubhomoydas/ad_examples
 ### 9.数据挖掘-理论与算法
 https://www.bilibili.com/video/av23933161?from=search&seid=7396061725932583774
-
-
+### 10.数据挖掘Titanic案例分析
+https://www.kaggle.com/lazylittlebody/test-titanci
+### 11.特征工程是什么
+https://www.zhihu.com/question/29316149
+### 12.公认机器学习经典《模式识别与机器学习(PRML)》正式开放免费下载
+https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
+### 13.Neural Network FAQ
+ftp://ftp.sas.com/pub/neural/FAQ3.html#A_jitter?tdsourcetag=s_pctim_aiomsg
 
