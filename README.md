@@ -25,4 +25,5 @@ https://www.zhihu.com/question/29316149
 https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
 ### 13.Neural Network FAQ
 ftp://ftp.sas.com/pub/neural/FAQ3.html#A_jitter?tdsourcetag=s_pctim_aiomsg
-
+### 14.迁移学习资料大全
+https://github.com/jindongwang/transferlearning
