@@ -27,3 +27,5 @@ https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Rec
 ftp://ftp.sas.com/pub/neural/FAQ3.html#A_jitter?tdsourcetag=s_pctim_aiomsg
 ### 14.迁移学习资料大全
 https://github.com/jindongwang/transferlearning
+### 15.手写数字识别案例分析——keras
+https://www.kaggle.com/lazylittlebody/digit-recognize-with-deep-network-keras-way?scriptVersionId=8996445
