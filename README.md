@@ -29,3 +29,5 @@ ftp://ftp.sas.com/pub/neural/FAQ3.html#A_jitter?tdsourcetag=s_pctim_aiomsg
 https://github.com/jindongwang/transferlearning
 ### 15.手写数字识别案例分析——keras
 https://www.kaggle.com/lazylittlebody/digit-recognize-with-deep-network-keras-way?scriptVersionId=8996445
+### 16.机器学习外文博客
+https://www.kdnuggets.com/news/index.html
