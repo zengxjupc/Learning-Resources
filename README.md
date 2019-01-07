@@ -31,3 +31,5 @@ https://github.com/jindongwang/transferlearning
 https://www.kaggle.com/lazylittlebody/digit-recognize-with-deep-network-keras-way?scriptVersionId=8996445
 ### 16.机器学习外文博客
 https://www.kdnuggets.com/news/index.html
+### 17.深度学习NLP综述
+https://nlpoverview.com/
