@@ -33,3 +33,7 @@ https://www.kaggle.com/lazylittlebody/digit-recognize-with-deep-network-keras-wa
 https://www.kdnuggets.com/news/index.html
 ### 17.深度学习NLP综述
 https://nlpoverview.com/
+### 18.深度学习面试题目汇总
+https://github.com/ShanghaiTechAIClub/DLInterview
+### 19.中文手写汉字识别
+https://github.com/chizhanyuefeng/Chinese_OCR_CNN-RNN-CTC
